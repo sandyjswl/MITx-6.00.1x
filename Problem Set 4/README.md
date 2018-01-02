@@ -8,7 +8,7 @@ Let's begin by describing the 6.00 wordgame: This game is a lot like Scrabble or
 
 The rules of the game are as follows:
 
-Dealing
+#Dealing
 A player is dealt a hand of n letters chosen at random (assume n=7 for now).
 
 The player arranges the hand into as many words as they want out of the letters, using each letter at most once.
